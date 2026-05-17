@@ -1,2 +1,3 @@
-# Sos-Espa-a
-Teléfonos de interés de España 
+# SOS España
+
+Proyecto Flutter base para Android e iPhone.
